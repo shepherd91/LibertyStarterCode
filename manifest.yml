@@ -2,7 +2,7 @@ applications:
 - path: target/JavaHelloWorldApp.war
   memory: 512M
   instances: 1
-  domain: eu-gb.mybluemix.net
-  name: DilJava
-  host: DilJava
+  domain: ng.mybluemix.net
+  name: RabindraLiberty
+  host: RabindraLiberty
   disk_quota: 1024M
